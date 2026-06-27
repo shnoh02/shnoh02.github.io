@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sihyeon Noh | Robotics & Embedded Systems"
+title                    : "Robotics & Embedded Systems"
 title_separator          : "-"
 name                     : &name "Sihyeon Noh"
 description              : &description "Research interests in Robotics, UAVs, Embedded Systems and Autonomous Systems."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "shnoh02/shnoh02.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sihyeon Noh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Aspiring robotics researcher with interests in embedded systems, autonomous robots, UAVs, and control systems.."
+  location         : "Daejeon, Korea"
+  employer         : "Chungnam National University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "awake_noh@naver.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "github.com/MAD-CRAZY-MAN"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
