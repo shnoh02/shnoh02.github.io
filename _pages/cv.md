@@ -11,37 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. Candidate in Mechatronics Engineering, Chungnam National University, 2026–Present (expected 2028)
+* High School Diploma in Embedded Software, Daedeok Software Meister High School, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2025: Embedded Software Engineer
+  * ThePeach Inc.
+  * Duties includes:
+    * Developed embedded software for UAV flight control systems.
+    * Contributed to PX4 and ArduPilot open-source projects.
+    * Implemented and maintained embedded C/C++ software for autonomous flight.
+    * Worked with GNSS, MAVLink, and drone communication systems.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C, C++, Python, MATLAB
+* Embedded Systems
+  * ARM Cortex-M, STM32, NRF9160
+  * Zephyr RTOS, NuttX, Linux
+* Robotics & UAV
+  * PX4, ArduPilot
+  * ROS, ROS2
+  * MAVLink/DDS
+  * Gazebo
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
