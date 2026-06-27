@@ -14,7 +14,7 @@ Education
 * B.S. Candidate in Mechatronics Engineering, Chungnam National University, 2026–Present (expected 2028)
 * High School Diploma in Embedded Software, Daedeok Software Meister High School, 2020
 
-Work experience
+Work Experience
 ======
 * 2020-2025: Embedded Software Engineer
   * ThePeach Inc.
@@ -36,6 +36,13 @@ Skills
   * ROS, ROS2
   * MAVLink/DDS
   * Gazebo
+
+Certifications
+======
+* TOEIC 860 (Sep, 2025)
+* 초경량비행장치 조종자, 2022
+* 정보기기운용기능사, 2018
+* 정보처리기능사, 2017
 
 <!-- Publications
 ======
