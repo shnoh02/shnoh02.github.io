@@ -4,4 +4,3 @@ title: "Awards"
 author_profile: true
 ---
 
-## Awards
