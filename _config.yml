@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Robotics & Embedded Systems"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Sihyeon Noh"
 description              : &description "Research interests in Robotics, UAVs, Embedded Systems and Autonomous Systems."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sihyeon Noh"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring robotics researcher with interests in embedded systems, autonomous robots, UAVs, and control systems."
+  bio              : "Research interests in Robotics, UAVs, Embedded Systems and Autonomous Systems."
   location         : "Daejeon, Korea"
   employer         : "Chungnam National University"
   uri              : # URL
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "노시현-v9w"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
